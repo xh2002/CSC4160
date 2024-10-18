@@ -239,6 +239,7 @@ You need to forward connections to a local port to a port on the pod.
 $ kubectl port-forward --address 0.0.0.0 <prometheus server pod name> <local port>:9090
 or
 $ kubectl port-forward --address 0.0.0.0 service/prometheus-server-np <local port>:80
+
 ```
 
 _Note:_ Why the difference?
@@ -284,7 +285,7 @@ spec:
       containers:
       - name: siege
         image: schoolofdevops/loadtest:v1
-        command: ["siege",  "--concurrent=15", "--benchmark", "--time=4m", "http://<FILL IN>"] # FILL IN: rng or hasher
+        command: ["siege",  "--concurrent=15", "--benchmark", "--time=4m", "http://192.168.49.2:32727"] # FILL IN: rng or hasher
       restartPolicy: Never
   backoffLimit: 4
 ```
@@ -301,7 +302,7 @@ To get information about the job
 
 ```bash
 kubectl get jobs
-kubectl describe  job loadtest-xxx
+kubectl describe job loadtestmppdj
 ```
 
 replace loadtest-xxx with actual job name.
@@ -309,7 +310,10 @@ replace loadtest-xxx with actual job name.
 To check the load test output
 
 ```bash
-kubectl logs  -f loadtest-xxxx
+kubectl logs -f loadtestmppdj-zm46f
+kubectl port-forward --address 0.0.0.0 prometheus-server-644d686bc6-r5fp9
+9090:9090
+kubectl port-forward --address 0.0.0.0 service/prometheus-server-np 9090:80
 ```
 
 [replace loadtest-xxxx with the actual pod id.]
