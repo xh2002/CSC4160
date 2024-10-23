@@ -1,0 +1,424 @@
+[2024-10-21 18:33:48,363] DESKTOP-9K7JAB5/INFO/locust.main: Starting Locust 2.32.0
+[2024-10-21 18:33:48,365] DESKTOP-9K7JAB5/INFO/locust.main: Run time limit set to 60 seconds
+[2024-10-21 18:33:48,367] DESKTOP-9K7JAB5/INFO/locust.runners: Ramping to 10 users at a rate of 5.00 per second
+[2024-10-21 18:33:49,368] DESKTOP-9K7JAB5/INFO/locust.runners: All users spawned: {"LambdaTestUser": 10} (10 total users)
+[2024-10-21 18:33:50,831] DESKTOP-9K7JAB5/INFO/root: Response time: 2455.18 ms
+[2024-10-21 18:33:50,831] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:50,831] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:50,839] DESKTOP-9K7JAB5/INFO/root: Response time: 2462.49 ms
+[2024-10-21 18:33:50,839] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:50,839] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:50,896] DESKTOP-9K7JAB5/INFO/root: Response time: 2519.61 ms
+[2024-10-21 18:33:50,896] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:50,896] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:50,896] DESKTOP-9K7JAB5/INFO/root: Response time: 2520.60 ms
+[2024-10-21 18:33:50,896] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:50,896] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:50,915] DESKTOP-9K7JAB5/INFO/root: Response time: 2546.45 ms
+[2024-10-21 18:33:50,916] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:50,916] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:51,701] DESKTOP-9K7JAB5/INFO/root: Response time: 2330.49 ms
+[2024-10-21 18:33:51,701] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:51,701] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:51,743] DESKTOP-9K7JAB5/INFO/root: Response time: 2373.45 ms
+[2024-10-21 18:33:51,743] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:51,743] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:51,798] DESKTOP-9K7JAB5/INFO/root: Response time: 2430.00 ms
+[2024-10-21 18:33:51,799] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:51,799] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:51,836] DESKTOP-9K7JAB5/INFO/root: Response time: 2465.62 ms
+[2024-10-21 18:33:51,836] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:51,836] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:52,116] DESKTOP-9K7JAB5/INFO/root: Response time: 2745.01 ms
+[2024-10-21 18:33:52,116] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:52,116] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:54,294] DESKTOP-9K7JAB5/INFO/root: Response time: 267.50 ms
+[2024-10-21 18:33:54,294] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:54,294] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:54,688] DESKTOP-9K7JAB5/INFO/root: Response time: 258.99 ms
+[2024-10-21 18:33:54,688] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:54,688] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:55,146] DESKTOP-9K7JAB5/INFO/root: Response time: 246.71 ms
+[2024-10-21 18:33:55,146] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:55,146] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:55,147] DESKTOP-9K7JAB5/INFO/root: Response time: 294.84 ms
+[2024-10-21 18:33:55,147] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:55,147] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:55,189] DESKTOP-9K7JAB5/INFO/root: Response time: 274.22 ms
+[2024-10-21 18:33:55,189] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:55,190] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:55,265] DESKTOP-9K7JAB5/INFO/root: Response time: 257.54 ms
+[2024-10-21 18:33:55,265] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:55,265] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:55,833] DESKTOP-9K7JAB5/INFO/root: Response time: 247.54 ms
+[2024-10-21 18:33:55,833] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:55,833] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:55,882] DESKTOP-9K7JAB5/INFO/root: Response time: 250.55 ms
+[2024-10-21 18:33:55,883] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:55,883] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:55,902] DESKTOP-9K7JAB5/INFO/root: Response time: 254.57 ms
+[2024-10-21 18:33:55,902] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:55,902] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:56,376] DESKTOP-9K7JAB5/INFO/root: Response time: 288.07 ms
+[2024-10-21 18:33:56,376] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:56,376] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:57,862] DESKTOP-9K7JAB5/INFO/root: Response time: 257.91 ms
+[2024-10-21 18:33:57,862] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:57,862] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:58,520] DESKTOP-9K7JAB5/INFO/root: Response time: 262.76 ms
+[2024-10-21 18:33:58,520] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:58,520] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:58,554] DESKTOP-9K7JAB5/INFO/root: Response time: 248.54 ms
+[2024-10-21 18:33:58,554] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:58,554] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:58,736] DESKTOP-9K7JAB5/INFO/root: Response time: 304.45 ms
+[2024-10-21 18:33:58,737] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:58,737] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:58,773] DESKTOP-9K7JAB5/INFO/root: Response time: 277.64 ms
+[2024-10-21 18:33:58,773] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:58,773] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:58,899] DESKTOP-9K7JAB5/INFO/root: Response time: 274.48 ms
+[2024-10-21 18:33:58,899] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:58,899] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:59,326] DESKTOP-9K7JAB5/INFO/root: Response time: 280.42 ms
+[2024-10-21 18:33:59,326] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:59,326] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:33:59,348] DESKTOP-9K7JAB5/INFO/root: Response time: 255.65 ms
+[2024-10-21 18:33:59,349] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:33:59,349] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:00,034] DESKTOP-9K7JAB5/INFO/root: Response time: 247.69 ms
+[2024-10-21 18:34:00,034] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:00,034] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:01,286] DESKTOP-9K7JAB5/INFO/root: Response time: 280.10 ms
+[2024-10-21 18:34:01,286] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:01,286] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:02,920] DESKTOP-9K7JAB5/INFO/root: Response time: 255.01 ms
+[2024-10-21 18:34:02,920] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:02,920] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:03,114] DESKTOP-9K7JAB5/INFO/root: Response time: 257.41 ms
+[2024-10-21 18:34:03,114] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:03,114] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:03,409] DESKTOP-9K7JAB5/INFO/root: Response time: 313.63 ms
+[2024-10-21 18:34:03,409] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:03,409] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:03,625] DESKTOP-9K7JAB5/INFO/root: Response time: 245.75 ms
+[2024-10-21 18:34:03,626] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:03,626] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:03,668] DESKTOP-9K7JAB5/INFO/root: Response time: 257.66 ms
+[2024-10-21 18:34:03,668] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:03,668] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:03,805] DESKTOP-9K7JAB5/INFO/root: Response time: 270.04 ms
+[2024-10-21 18:34:03,805] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:03,805] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:03,807] DESKTOP-9K7JAB5/INFO/root: Response time: 255.09 ms
+[2024-10-21 18:34:03,807] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:03,807] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:03,840] DESKTOP-9K7JAB5/INFO/root: Response time: 257.80 ms
+[2024-10-21 18:34:03,840] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:03,840] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:03,908] DESKTOP-9K7JAB5/INFO/root: Response time: 263.85 ms
+[2024-10-21 18:34:03,908] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:03,908] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:04,902] DESKTOP-9K7JAB5/INFO/root: Response time: 290.09 ms
+[2024-10-21 18:34:04,902] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:04,902] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:07,440] DESKTOP-9K7JAB5/INFO/root: Response time: 321.82 ms
+[2024-10-21 18:34:07,440] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:07,440] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:07,511] DESKTOP-9K7JAB5/INFO/root: Response time: 267.29 ms
+[2024-10-21 18:34:07,511] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:07,511] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:07,687] DESKTOP-9K7JAB5/INFO/root: Response time: 272.12 ms
+[2024-10-21 18:34:07,687] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:07,687] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:07,736] DESKTOP-9K7JAB5/INFO/root: Response time: 257.52 ms
+[2024-10-21 18:34:07,736] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:07,736] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:07,871] DESKTOP-9K7JAB5/INFO/root: Response time: 269.67 ms
+[2024-10-21 18:34:07,872] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:07,872] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:08,019] DESKTOP-9K7JAB5/INFO/root: Response time: 246.11 ms
+[2024-10-21 18:34:08,020] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:08,020] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:08,108] DESKTOP-9K7JAB5/INFO/root: Response time: 287.69 ms
+[2024-10-21 18:34:08,108] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:08,108] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:08,155] DESKTOP-9K7JAB5/INFO/root: Response time: 253.93 ms
+[2024-10-21 18:34:08,155] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:08,155] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:08,824] DESKTOP-9K7JAB5/INFO/root: Response time: 250.61 ms
+[2024-10-21 18:34:08,824] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:08,824] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:09,067] DESKTOP-9K7JAB5/INFO/root: Response time: 276.51 ms
+[2024-10-21 18:34:09,067] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:09,067] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:11,135] DESKTOP-9K7JAB5/INFO/root: Response time: 250.69 ms
+[2024-10-21 18:34:11,135] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:11,135] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:11,418] DESKTOP-9K7JAB5/INFO/root: Response time: 247.56 ms
+[2024-10-21 18:34:11,418] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:11,418] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:11,788] DESKTOP-9K7JAB5/INFO/root: Response time: 276.29 ms
+[2024-10-21 18:34:11,788] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:11,788] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:11,817] DESKTOP-9K7JAB5/INFO/root: Response time: 273.96 ms
+[2024-10-21 18:34:11,817] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:11,817] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:11,944] DESKTOP-9K7JAB5/INFO/root: Response time: 260.77 ms
+[2024-10-21 18:34:11,945] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:11,945] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:12,406] DESKTOP-9K7JAB5/INFO/root: Response time: 253.43 ms
+[2024-10-21 18:34:12,407] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:12,407] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:12,608] DESKTOP-9K7JAB5/INFO/root: Response time: 251.86 ms
+[2024-10-21 18:34:12,609] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:12,609] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:12,634] DESKTOP-9K7JAB5/INFO/root: Response time: 246.49 ms
+[2024-10-21 18:34:12,634] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:12,634] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:12,973] DESKTOP-9K7JAB5/INFO/root: Response time: 259.01 ms
+[2024-10-21 18:34:12,973] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:12,973] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:13,416] DESKTOP-9K7JAB5/INFO/root: Response time: 407.68 ms
+[2024-10-21 18:34:13,416] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:13,416] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:14,758] DESKTOP-9K7JAB5/INFO/root: Response time: 251.83 ms
+[2024-10-21 18:34:14,759] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:14,759] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:15,218] DESKTOP-9K7JAB5/INFO/root: Response time: 351.82 ms
+[2024-10-21 18:34:15,218] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:15,218] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:15,811] DESKTOP-9K7JAB5/INFO/root: Response time: 249.90 ms
+[2024-10-21 18:34:15,811] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:15,811] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:16,451] DESKTOP-9K7JAB5/INFO/root: Response time: 249.67 ms
+[2024-10-21 18:34:16,452] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:16,452] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:16,560] DESKTOP-9K7JAB5/INFO/root: Response time: 825.26 ms
+[2024-10-21 18:34:16,561] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:16,561] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:16,629] DESKTOP-9K7JAB5/INFO/root: Response time: 277.29 ms
+[2024-10-21 18:34:16,629] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:16,629] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:17,033] DESKTOP-9K7JAB5/INFO/root: Response time: 248.14 ms
+[2024-10-21 18:34:17,033] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:17,033] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:17,495] DESKTOP-9K7JAB5/INFO/root: Response time: 284.61 ms
+[2024-10-21 18:34:17,495] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:17,495] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:17,794] DESKTOP-9K7JAB5/INFO/root: Response time: 304.84 ms
+[2024-10-21 18:34:17,795] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:17,795] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:18,077] DESKTOP-9K7JAB5/INFO/root: Response time: 281.18 ms
+[2024-10-21 18:34:18,077] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:18,077] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:19,434] DESKTOP-9K7JAB5/INFO/root: Response time: 315.55 ms
+[2024-10-21 18:34:19,435] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:19,435] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:19,770] DESKTOP-9K7JAB5/INFO/root: Response time: 324.01 ms
+[2024-10-21 18:34:19,771] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:19,771] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:20,138] DESKTOP-9K7JAB5/INFO/root: Response time: 252.00 ms
+[2024-10-21 18:34:20,138] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:20,138] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:20,238] DESKTOP-9K7JAB5/INFO/root: Response time: 242.04 ms
+[2024-10-21 18:34:20,238] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:20,238] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:21,506] DESKTOP-9K7JAB5/INFO/root: Response time: 293.69 ms
+[2024-10-21 18:34:21,506] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:21,506] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:21,513] DESKTOP-9K7JAB5/INFO/root: Response time: 254.30 ms
+[2024-10-21 18:34:21,513] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:21,513] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:21,540] DESKTOP-9K7JAB5/INFO/root: Response time: 249.14 ms
+[2024-10-21 18:34:21,540] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:21,540] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:21,773] DESKTOP-9K7JAB5/INFO/root: Response time: 277.26 ms
+[2024-10-21 18:34:21,773] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:21,773] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:21,865] DESKTOP-9K7JAB5/INFO/root: Response time: 276.33 ms
+[2024-10-21 18:34:21,865] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:21,865] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:23,076] DESKTOP-9K7JAB5/INFO/root: Response time: 294.75 ms
+[2024-10-21 18:34:23,076] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:23,076] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:23,352] DESKTOP-9K7JAB5/INFO/root: Response time: 281.61 ms
+[2024-10-21 18:34:23,352] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:23,352] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:23,528] DESKTOP-9K7JAB5/INFO/root: Response time: 249.67 ms
+[2024-10-21 18:34:23,528] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:23,528] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:24,069] DESKTOP-9K7JAB5/INFO/root: Response time: 267.90 ms
+[2024-10-21 18:34:24,069] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:24,069] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:24,598] DESKTOP-9K7JAB5/INFO/root: Response time: 246.09 ms
+[2024-10-21 18:34:24,599] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:24,599] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:24,999] DESKTOP-9K7JAB5/INFO/root: Response time: 258.98 ms
+[2024-10-21 18:34:24,999] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:24,999] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:25,319] DESKTOP-9K7JAB5/INFO/root: Response time: 291.96 ms
+[2024-10-21 18:34:25,319] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:25,320] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:25,524] DESKTOP-9K7JAB5/INFO/root: Response time: 254.75 ms
+[2024-10-21 18:34:25,524] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:25,524] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:26,236] DESKTOP-9K7JAB5/INFO/root: Response time: 271.81 ms
+[2024-10-21 18:34:26,236] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:26,236] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:26,374] DESKTOP-9K7JAB5/INFO/root: Response time: 252.06 ms
+[2024-10-21 18:34:26,374] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:26,374] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:27,159] DESKTOP-9K7JAB5/INFO/root: Response time: 271.43 ms
+[2024-10-21 18:34:27,159] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:27,159] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:27,318] DESKTOP-9K7JAB5/INFO/root: Response time: 246.11 ms
+[2024-10-21 18:34:27,318] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:27,318] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:27,671] DESKTOP-9K7JAB5/INFO/root: Response time: 317.07 ms
+[2024-10-21 18:34:27,671] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:27,671] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:28,554] DESKTOP-9K7JAB5/INFO/root: Response time: 247.84 ms
+[2024-10-21 18:34:28,554] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:28,554] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:29,134] DESKTOP-9K7JAB5/INFO/root: Response time: 271.99 ms
+[2024-10-21 18:34:29,134] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:29,134] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:29,474] DESKTOP-9K7JAB5/INFO/root: Response time: 344.20 ms
+[2024-10-21 18:34:29,474] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:29,474] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:29,540] DESKTOP-9K7JAB5/INFO/root: Response time: 293.08 ms
+[2024-10-21 18:34:29,540] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:29,540] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:30,568] DESKTOP-9K7JAB5/INFO/root: Response time: 337.79 ms
+[2024-10-21 18:34:30,569] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:30,569] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:31,502] DESKTOP-9K7JAB5/INFO/root: Response time: 273.87 ms
+[2024-10-21 18:34:31,503] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:31,503] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:31,571] DESKTOP-9K7JAB5/INFO/root: Response time: 250.00 ms
+[2024-10-21 18:34:31,571] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:31,571] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:31,675] DESKTOP-9K7JAB5/INFO/root: Response time: 291.41 ms
+[2024-10-21 18:34:31,675] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:31,675] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:32,423] DESKTOP-9K7JAB5/INFO/root: Response time: 302.01 ms
+[2024-10-21 18:34:32,423] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:32,424] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:32,869] DESKTOP-9K7JAB5/INFO/root: Response time: 268.47 ms
+[2024-10-21 18:34:32,869] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:32,869] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:33,382] DESKTOP-9K7JAB5/INFO/root: Response time: 317.38 ms
+[2024-10-21 18:34:33,382] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:33,382] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:33,733] DESKTOP-9K7JAB5/INFO/root: Response time: 257.50 ms
+[2024-10-21 18:34:33,734] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:33,734] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:34,293] DESKTOP-9K7JAB5/INFO/root: Response time: 337.97 ms
+[2024-10-21 18:34:34,293] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:34,293] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:34,337] DESKTOP-9K7JAB5/INFO/root: Response time: 256.44 ms
+[2024-10-21 18:34:34,338] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:34,338] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:34,554] DESKTOP-9K7JAB5/INFO/root: Response time: 266.05 ms
+[2024-10-21 18:34:34,558] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:34,559] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:35,528] DESKTOP-9K7JAB5/INFO/root: Response time: 303.49 ms
+[2024-10-21 18:34:35,528] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:35,528] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:35,775] DESKTOP-9K7JAB5/INFO/root: Response time: 253.44 ms
+[2024-10-21 18:34:35,775] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:35,775] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:36,602] DESKTOP-9K7JAB5/INFO/root: Response time: 276.34 ms
+[2024-10-21 18:34:36,602] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:36,602] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:37,329] DESKTOP-9K7JAB5/INFO/root: Response time: 246.71 ms
+[2024-10-21 18:34:37,329] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:37,329] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:37,851] DESKTOP-9K7JAB5/INFO/root: Response time: 263.17 ms
+[2024-10-21 18:34:37,851] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:37,851] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:38,028] DESKTOP-9K7JAB5/INFO/root: Response time: 248.88 ms
+[2024-10-21 18:34:38,028] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:38,028] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:38,035] DESKTOP-9K7JAB5/INFO/root: Response time: 258.12 ms
+[2024-10-21 18:34:38,035] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:38,035] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:38,486] DESKTOP-9K7JAB5/INFO/root: Response time: 297.29 ms
+[2024-10-21 18:34:38,486] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:38,486] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:38,824] DESKTOP-9K7JAB5/INFO/root: Response time: 249.24 ms
+[2024-10-21 18:34:38,824] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:38,824] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:38,838] DESKTOP-9K7JAB5/INFO/root: Response time: 296.15 ms
+[2024-10-21 18:34:38,838] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:38,838] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:38,853] DESKTOP-9K7JAB5/INFO/root: Response time: 280.24 ms
+[2024-10-21 18:34:38,853] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:38,853] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:40,098] DESKTOP-9K7JAB5/INFO/root: Response time: 247.21 ms
+[2024-10-21 18:34:40,098] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:40,098] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:40,195] DESKTOP-9K7JAB5/INFO/root: Response time: 268.16 ms
+[2024-10-21 18:34:40,195] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:40,195] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:40,751] DESKTOP-9K7JAB5/INFO/root: Response time: 249.86 ms
+[2024-10-21 18:34:40,751] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:40,751] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:41,304] DESKTOP-9K7JAB5/INFO/root: Response time: 282.89 ms
+[2024-10-21 18:34:41,304] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:41,304] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:41,561] DESKTOP-9K7JAB5/INFO/root: Response time: 319.42 ms
+[2024-10-21 18:34:41,562] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:41,562] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:41,922] DESKTOP-9K7JAB5/INFO/root: Response time: 364.97 ms
+[2024-10-21 18:34:41,923] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:41,923] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:42,207] DESKTOP-9K7JAB5/INFO/root: Response time: 272.90 ms
+[2024-10-21 18:34:42,207] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:42,207] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:43,071] DESKTOP-9K7JAB5/INFO/root: Response time: 261.50 ms
+[2024-10-21 18:34:43,072] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:43,072] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:43,568] DESKTOP-9K7JAB5/INFO/root: Response time: 300.22 ms
+[2024-10-21 18:34:43,568] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:43,568] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:43,995] DESKTOP-9K7JAB5/INFO/root: Response time: 281.54 ms
+[2024-10-21 18:34:43,995] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:43,995] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:44,179] DESKTOP-9K7JAB5/INFO/root: Response time: 249.30 ms
+[2024-10-21 18:34:44,179] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:44,179] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:44,827] DESKTOP-9K7JAB5/INFO/root: Response time: 338.07 ms
+[2024-10-21 18:34:44,827] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:44,827] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:45,531] DESKTOP-9K7JAB5/INFO/root: Response time: 287.32 ms
+[2024-10-21 18:34:45,531] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:45,531] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:45,877] DESKTOP-9K7JAB5/INFO/root: Response time: 244.48 ms
+[2024-10-21 18:34:45,877] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:45,877] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:46,149] DESKTOP-9K7JAB5/INFO/root: Response time: 249.58 ms
+[2024-10-21 18:34:46,150] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:46,150] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:46,222] DESKTOP-9K7JAB5/INFO/root: Response time: 274.53 ms
+[2024-10-21 18:34:46,222] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:46,222] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:46,383] DESKTOP-9K7JAB5/INFO/root: Response time: 279.96 ms
+[2024-10-21 18:34:46,384] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:46,384] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:46,927] DESKTOP-9K7JAB5/INFO/root: Response time: 246.14 ms
+[2024-10-21 18:34:46,927] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:46,927] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:46,946] DESKTOP-9K7JAB5/INFO/root: Response time: 249.14 ms
+[2024-10-21 18:34:46,946] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:46,946] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:47,439] DESKTOP-9K7JAB5/INFO/root: Response time: 332.67 ms
+[2024-10-21 18:34:47,439] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:47,439] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:47,684] DESKTOP-9K7JAB5/INFO/root: Response time: 252.18 ms
+[2024-10-21 18:34:47,684] DESKTOP-9K7JAB5/INFO/root: Response status code: 200
+[2024-10-21 18:34:47,684] DESKTOP-9K7JAB5/INFO/root: Response text: {"statusCode": 200, "body": "{\"prediction\": [2]}"}
+[2024-10-21 18:34:48,137] DESKTOP-9K7JAB5/INFO/locust.main: --run-time limit reached, shutting down
+[2024-10-21 18:34:48,319] DESKTOP-9K7JAB5/INFO/locust.main: writing html report to file: locust_logs/test_locust_report.html
+[2024-10-21 18:34:48,323] DESKTOP-9K7JAB5/INFO/locust.main: Shutting down (exit code 0)

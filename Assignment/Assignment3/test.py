@@ -3,7 +3,7 @@ import json
 
 # Local and remote URLs
 url_local = 'http://localhost:8080/2015-03-31/functions/function/invocations'
-url_lambda = "https://<your_api_id>.execute-api.us-east-1.amazonaws.com/default/<your_lambda_function>"
+url_lambda = "https://u3nt600wp3.execute-api.us-east-1.amazonaws.com/dev/predict"
 
 # Input data wrapped in a "body" field for Lambda
 data1 = {"values": [[0.1, 2, 0.1, 3]]}

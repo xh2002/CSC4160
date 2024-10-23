@@ -12,10 +12,9 @@ class LambdaTestUser(HttpUser):
     @task
     def lambda_request(self):
         start_time = time.time()  # Record the start time
-        response = self.client.post("/default/<your_lambda_function>", json=self.payload)  # Send request to the Lambda
+        response = self.client.post("/dev/predict", json=self.payload)  # Send request to the Lambda
         end_time = time.time()  # Record the end time
-        response_time_ms = 1000 * (end_time - start_time)  # Calculate the response time in milliseconds
-        
+        response_time_ms = 1000 * (end_time - start_time)  # Calculate the response time in milliseconds        
         # Log the response time to observe the latency (which includes cold start time if applicable)
         logging.info(f"Response time: {response_time_ms:.2f} ms")
         # Optionally, you can log the status code and response for debugging purposes
