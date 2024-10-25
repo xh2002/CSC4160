@@ -1,4 +1,4 @@
-# CSC4160 Assignment2
+# CSC4160 Assignment 3
 # Report
 ### Name: Xu Boshi 
 ### Student ID: 122040075
@@ -226,37 +226,25 @@ Run charts of `performance_analysis.ipynb` in Jupyter Notebook
 Results:
 First Chart: Performance Over Time (P50, P95, Max)
 ![alt text](performance_analysis.png)
-P50 (Median): The blue line represents the 50th percentile (median) of the response time. It shows that 50% of requests have a response time less than or equal to this value.
-P95 (95th Percentile): The orange line represents the 95th percentile, indicating that 95% of requests have a response time below this value, while 5% are slower. This helps identify occasional slow requests.
-Max (Maximum): The green line shows the maximum response time for each time period. This highlights extreme cases, such as cold starts or network delays, where the response time is much higher than usual.
-Insights:
-The chart shows variability in response times over time. While P50 remains fairly stable, P95 and Max experience spikes, indicating occasional slow requests, likely caused by cold starts or increased load.
-The Max values are particularly high during some periods, possibly due to cold starts or other transient conditions.
+This chart shows the changes in request response time. The three indicators in the chart are p50 (50th percentile), p95 (95th percentile), and max (maximum response time). At the beginning of the chart, the response time is very high, with the maximum value reaching around 2500 ms. This is usually due to cold start delays, where the first request often takes longer to complete.
+Then, the response time drops rapidly to around 300 ms and remains stable for most of the time. This indicates that after the cold start, the system has entered a "warm state," and the response time has significantly reduced.
+There is a small spike in the middle where the maximum response time slightly increases, possibly due to resource scheduling or other temporary factors.
+Overall, this chart shows the performance of the system from cold start to stable operation, with response times dropping sharply after the cold start and remaining at a low level.
 
 Second Chart: Histogram of Response Times During Cold Start
 ![alt text](Cold_chart.png)
-This histogram shows the distribution of response times during cold starts.
-P50 (50th Percentile): The green dashed line represents the median response time, indicating that 50% of requests are completed within this time.
-P95 (95th Percentile): The yellow dashed line represents the 95th percentile, showing that 95% of the requests are completed within this time.
-Max (Maximum): The highest value, likely to the right of the graph, shows the longest response times during cold starts.
-Mean (Average): The red solid line shows the average response time, which can be higher than the median due to the influence of slower outlier requests.
-Insights:
-Most requests during cold starts have response times concentrated around a lower range (likely below 500ms), but a few requests take much longer due to cold start delays.
-The 95th percentile is relatively high, indicating that cold starts introduce some significant variance in performance, causing occasional slow requests.
+This chart shows the distribution of request response times during a cold start. It is evident that the majority of requests have response times clustered around 2500 ms. Due to the nature of cold starts, the first invocation requires initializing resources, which leads to longer response times. The delay mainly comes from starting the function environment, loading dependencies, and initialization steps. As a result, there is a clear peak in the graph, indicating that all requests experience longer response times, typical of the cold start phase.
+The p50 (50th percentile) and p95 (95th percentile) are both in the higher range, meaning that most requests have response times far exceeding the expected values during regular operation. The mean is close to these percentiles, indicating that performance during a cold start is inconsistent, with a wide variation in response times.
 
 Third Chart: Histogram of Response Times During Warm Requests
 ![alt text](Warm_chart.png)
-This histogram shows the distribution of response times for warm requests (i.e., after the Lambda function has been initialized).
-Again, P50, P95, and Mean lines are indicated, showing how the response times are distributed.
-Warm requests generally show much lower response times compared to cold starts, with more consistent performance.
-Insights:
-During warm starts, most requests have shorter response times, generally below 500ms, indicating stable and fast performance once the system is warmed up.
-Although there are a few outlier requests with higher response times, overall performance is much better than during cold starts.
+In contrast, the response times during a warm start are significantly improved. Most requests have response times clustered around 300 ms, with a distinct peak in the graph, showing that when the system is in a warm state, response times are stable. Unlike a cold start, a warm start does not require re-initializing resources, allowing the system to quickly process requests, resulting in much lower response times.
+Both the p50 and p95 values are substantially lower and close to the mean, indicating that the response times during a warm start are much more consistent, with almost no major fluctuations. This chart illustrates the system's high efficiency in a warm state, showing that once the system reaches steady operation, user experience improves significantly.
+
 Overall Summary:
-The first chart highlights performance fluctuations over time, with P95 and Max values showing occasional slow requests.
-The second chart shows response time distribution during cold starts, with a significant spread in response times due to the cold start effect.
-The third chart demonstrates much more stable performance during warm requests, with most requests completing quickly and consistently.
-This indicates that your system experiences noticeable performance degradation during cold starts, but once warmed up, it provides much more consistent and faster responses.
+During a cold start, performance is poor, with a significant delay in response times. 
+In a warm start, performance improves considerably, with shorter and more stable response times.
+Overall, the system shows a marked improvement in response times as it transitions from a cold start to stable operation, with much higher efficiency once in a warm state.
 
 ## **9. Q&A**
 AWS Lambda Function (0.5 point):
@@ -264,7 +252,7 @@ AWS Lambda Function (0.5 point):
 What is the role of a Lambda function in serverless deployment? How does the lambda_handler function work to process requests?
 
 >Answer:
-A Lambda function is the core component of AWS's serverless architecture, allowing you to execute code without provisioning or managing servers. It runs in response to various triggers, such as HTTP requests or S3 bucket events. The lambda_handler function serves as the entry point for the code execution. It receives event data and context information, processes the request based on the logic defined, and returns a response to the invoking service or user.
+A Lambda function is the core component of AWS's serverless architecture, allowing users to execute code without provisioning or managing servers. It runs in response to various triggers, such as HTTP requests or S3 bucket events. The lambda_handler function serves as the entry point for the code execution. It receives event data and context information, processes the request based on the logic defined, and returns a response to the invoking service or user.
 
 API Gateway and Lambda Integration (0.5 point):
 
@@ -298,5 +286,5 @@ Cold starts can lead to inconsistent response times, which can impact user exper
 In conclusion, this report demonstrates the successful deployment of a machine learning model using AWS Lambda and API Gateway, focusing on Docker integration and load testing with the IRIS dataset. The environment setup, from Docker installation to AWS configuration, highlights key steps for running and testing serverless applications. The experiment reveals the performance implications of cold starts, where initial response times can be significantly delayed compared to warm starts, leading to performance variability.
 
 Through visual data analysis, the report confirms that once Lambda functions are initialized, response times stabilize, ensuring efficient and fast processing for warm requests. This report emphasizes the importance of optimizing cold start performance for real-world serverless applications and provides insights into the benefits of serverless deployment. By analyzing both cold and warm requests, it is clear that serverless architecture, while offering convenience and scalability, requires careful consideration of its trade-offs, particularly when dealing with time-sensitive applications. 
-### **=============== This is the End of Assignment 3 Report ===============**
+### **================ This is the End of Assignment 3 Report ================**
 
